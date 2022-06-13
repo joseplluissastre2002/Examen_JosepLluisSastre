@@ -24,6 +24,7 @@
 ###Ejemplo 4
 
 #####Paso 1: Creamos un contenedor de debian 9 y mostramos el contenido de una carpeta establecida con el parametro -w.
+
 ![Paso1](ExamenEntornosIMG/E4paso1.PNG "Paso 1")
 
 #####Paso 2: Mostramos los contenedores en ejecución
